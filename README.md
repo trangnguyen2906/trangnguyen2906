@@ -16,7 +16,7 @@
 
 - **BI Tools**:   Power BI (DAX, Power Query), Tableau
 - **Programming**:   Python (Pandas, Matplotlib, Seaborn)  
-- **Databases**:   MySQL, Google BigQuery  
+- **Databases & Data Warehouse**:   MySQL, Google BigQuery  
 - **Machine Learning**:   Supervised & Unsupervised (Scikit-learn)
 
 ### 🔗 Connect me through 🌐:
