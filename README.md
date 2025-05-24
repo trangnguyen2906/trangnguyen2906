@@ -37,10 +37,10 @@
 
 <div width="100%" align="center">
   <a href="https://github.com/trangnguyen2906/Churn-Prediction-Segment-E-commerce" title="Churn Prediction Segment E-commerce">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=trangnguyen2906&repo=Churn-Prediction-Segment-E-commerce&title_color=ffffff&text_color=cccccc&icon_color=61dafb&bg_color=0d1117&border_color=61dafb&border_radius=10&cache_seconds=1">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=trangnguyen2906&repo=Churn-Prediction-Segment-E-commerce&title_color=ffffff&text_color=cccccc&icon_color=61dafb&bg_color=0d1117&border_color=61dafb&border_radius=10">
   </a>
   <a href="https://github.com/trangnguyen2906/RFM-Analysis-in-E-commerce" title="RFM Analysis in E-commerce">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=trangnguyen2906&repo=RFM-Analysis-in-E-commerce&title_color=ffffff&text_color=cccccc&icon_color=61dafb&bg_color=0d1117&border_color=61dafb&border_radius=10&cache_seconds=1">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=trangnguyen2906&repo=RFM-Analysis-in-E-commerce&title_color=ffffff&text_color=cccccc&icon_color=61dafb&bg_color=0d1117&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
@@ -48,10 +48,10 @@
 
 <div width="100%" align="center">
   <a href="https://github.com/trangnguyen2906/Sales-Performance-Analysis" title="Sales Performance Analysis">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=trangnguyen2906&repo=Sales-Performance-Analysis&title_color=ffffff&text_color=cccccc&icon_color=61dafb&bg_color=0d1117&border_color=61dafb&border_radius=10&cache_seconds=1">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=trangnguyen2906&repo=Sales-Performance-Analysis&title_color=ffffff&text_color=cccccc&icon_color=61dafb&bg_color=0d1117&border_color=61dafb&border_radius=10">
   </a>
   <a href="https://github.com/trangnguyen2906/User-Churn-and-Retention-Mobile-Game" title="User Churn and Retention Mobile Game">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=trangnguyen2906&repo=User-Churn-and-Retention-Mobile-Game&title_color=ffffff&text_color=cccccc&icon_color=61dafb&bg_color=0d1117&border_color=61dafb&border_radius=10&cache_seconds=1">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=trangnguyen2906&repo=User-Churn-and-Retention-Mobile-Game&title_color=ffffff&text_color=cccccc&icon_color=61dafb&bg_color=0d1117&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
