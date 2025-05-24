@@ -3,7 +3,6 @@
   <img src="https://drive.google.com/uc?export=view&id=1mnobtTQsu84VwwbfDyIVQwweL8ixqMBP" alt="Trang Nguyen Banner" width="100%"/>
 </p>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="270"/>
 
 ### 👩‍💻 About Me
 <ul>
