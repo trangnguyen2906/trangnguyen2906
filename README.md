@@ -15,7 +15,7 @@
 ### 🛠️ Technical Skills
 
 - **BI Tools**:   Power BI (DAX, Power Query), Tableau
-- **Programming**:   Python (Pandas, Matplotlib, Seaborn)  
+- **Programming**:   Python (Pandas, Numpy, Matplotlib, Seaborn)  
 - **Databases & Data Warehouse**:   MySQL, Google BigQuery  
 - **Machine Learning**:   Supervised & Unsupervised (Scikit-learn)
 
