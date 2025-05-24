@@ -30,7 +30,7 @@
 - 💡 These projects reflect my journey toward a career in data, where I bring curiosity, code, and creativity together. 
 - 🌱 Always learning, always growing. One dataset at a time! ☕📊
 
-<p align="center"><em>✨ Dive into the projects that shaped my learning journey ✨</em></p>
+<p align="center"><strong>👇 Click on a project to explore more 👇</strong></p>
 
 <br>
 <div width="100%" align="center">
