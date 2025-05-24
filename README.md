@@ -9,7 +9,7 @@
 <ul>
   <li>🎓 I'm <strong>22 years old</strong>, currently learning and growing toward a career as a <strong>data analyst</strong>.</li>
   <li>📌 Passionate about <strong>turning numbers into stories that matter</strong>, using data to inspire insight and impact.</li>
-  <li>🌱 Always curious and committed to <strong>learning something new every day.</li>
+  <li>🌱 Always curious and committed to learning something new every day.</li>
 </ul>
 
 ### 🛠️ Technical Skills
