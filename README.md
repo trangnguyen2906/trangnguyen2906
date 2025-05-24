@@ -30,6 +30,7 @@
 - 💡 These projects reflect my journey toward a career in data, where I bring curiosity, code, and creativity together. 
 - 🌱 Always learning, always growing. One dataset at a time! ☕📊
 
+
 <p align="center"><strong>👇 Click on a project to explore more 👇</strong></p>
 
 <br>
@@ -59,7 +60,6 @@
 <h4 align="center">
   <a href="https://github.com/trangnguyen2906?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
 
 <!--
 **trangnguyen2906/trangnguyen2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
