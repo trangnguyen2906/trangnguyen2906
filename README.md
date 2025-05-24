@@ -26,9 +26,9 @@
 - 👥 Reaching out on [Facebook](https://www.facebook.com/susu28)
 
 ### 🔍 Things I've built
-🚀 Some cool things I've been working on — in domains like e-commerce, mobile games, and logistics.  
-💡 These projects reflect my journey toward a career in data, where I bring curiosity, code, and creativity together. 
-🌱 Always learning, always growing — one dataset at a time! ☕📊
+- 🚀 Some cool things I've been working on — in domains like e-commerce, mobile games, and logistics.  
+- 💡 These projects reflect my journey toward a career in data, where I bring curiosity, code, and creativity together. 
+- 🌱 Always learning, always growing — one dataset at a time! ☕📊
 
 <br>
 <div width="100%" align="center">
