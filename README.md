@@ -19,12 +19,11 @@
 - **Databases**:   MySQL, Google BigQuery  
 - **Machine Learning**:   Supervised & Unsupervised (Scikit-learn)
 
-### 🔗 Connect through the web 🌐:
+### 🔗 Connect me through 🌐:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-huyentrang296-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/huyentrang296)
-[![Telegram](https://img.shields.io/badge/Telegram-@huyentrang2906-2CA5E0?style=flat&logo=telegram)](https://t.me/huyentrang2906)
-[![Facebook](https://img.shields.io/badge/Facebook-susu28-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/susu28)
-
+- 💼 Connecting on [LinkedIn](https://www.linkedin.com/in/huyentrang296)
+- 💬 Chatting via [Telegram](https://t.me/huyentrang2906)
+- 👥 Reaching out on [Facebook](https://www.facebook.com/susu28)
 
 
 🔭 I’m currently working on ...
