@@ -34,7 +34,7 @@
 
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/trangnguyen2906/Churn-Prediction-Segment-E-commerce" title="Churn Prediction Segment E-commerce">
+  <a align="left" href="https://github.co/trangnguyen2906/Churn-Prediction-Segment-E-commerce" title="Churn Prediction Segment E-commerce">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=trangnguyen2906&repo=Churn-Prediction-Segment-E-commerce&title_color=ffffff&text_color=cccccc&icon_color=61dafb&bg_color=0d1117&border_color=61dafb&border_radius=10">
   </a>
   <a align="right" href="https://github.com/trangnguyen2906/RFM-Analysis-in-E-commerce" title="RFM Analysis in E-commerce">
