@@ -59,6 +59,34 @@
   <a href="https://github.com/trangnguyen2906?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
+
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/trangnguyen2906/Churn-Prediction-Segment-E-commerce" title="Churn Prediction Segment E-commerce">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=trangnguyen2906&repo=Churn-Prediction-Segment-E-commerce&title_color=ffffff&text_color=cccccc&icon_color=61dafb&bg_color=0d1117&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/trangnguyen2906/RFM-Analysis-in-E-commerce" title="RFM Analysis in E-commerce">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=trangnguyen2906&repo=RFM-Analysis-in-E-commerce&title_color=ffffff&text_color=cccccc&icon_color=61dafb&bg_color=0d1117&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/trangnguyen2906/Sales-Performance-Analysis" title="Sales Performance Analysis">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=trangnguyen2906&repo=Sales-Performance-Analysis&title_color=ffffff&text_color=cccccc&icon_color=61dafb&bg_color=0d1117&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/trangnguyen2906/User-Churn-and-Retention-Mobile-Game" title="User Churn and Retention Mobile Game">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=trangnguyen2906&repo=User-Churn-and-Retention-Mobile-Game&title_color=ffffff&text_color=cccccc&icon_color=61dafb&bg_color=0d1117&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/trangnguyen2906?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
 <!--
 **trangnguyen2906/trangnguyen2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
